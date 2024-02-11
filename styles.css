@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000; /* Fondo negro */
+    color: #fff; /* Texto blanco */
+}
+
+header {
+    background-color: #ff0909;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#searchInput {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #333; /* Fondo gris oscuro */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+
+#moviesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.movie-card {
+    width: 23%;
+    margin: 10px;
+    box-sizing: border-box;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(224, 10, 10, 0.1); /* Sombra 3D */
+    transition: transform 0.3s;
+}
+
+.movie-card:hover {
+    transform: scale(1.05);
+}
+
+.movie-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
