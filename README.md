@@ -24,7 +24,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 ¡Contribuciones y sugerencias son bienvenidas!
 
 <div align="center">
-  <img src="hhttps://github.com/ToniPost/BuscarPeliculasApi/blob/main/peliculas.png" alt="Fondo">
+  <img src="https://github.com/ToniPost/BuscarPeliculasApi/blob/main/peliculas.png?raw=true" alt="Fondo">
 </div>
 
 
