@@ -22,3 +22,8 @@ Licencia:
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
 
 ¡Contribuciones y sugerencias son bienvenidas!
+
+
+
+
+![React Native](https://github.com/ToniPost/BuscarPeliculasApi/blob/main/peliculas.png)
